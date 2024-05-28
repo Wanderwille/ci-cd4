@@ -24,21 +24,21 @@
 
 Подготовил jenkins и Агента:
 
-![Скриншот 1](https://github.com/Wanderwille/scrinshot/blob/scrin2/Настройка%20jenkins.png)
+![Скриншот 1](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/Настройка%20jenkins.png)
 
 ## Основная часть
 
 1. Создал Freestyle Job из репозитория с ролью:
 
-![Скриншот 2](https://github.com/Wanderwille/scrinshot/blob/scrin2/1%20задание.png)
+![Скриншот 2](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/1%20задание.png)
 
-![Скриншот 3](https://github.com/Wanderwille/scrinshot/blob/scrin2/успешно-1задание.png)
+![Скриншот 3](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/успешно-1задание.png)
 
-![Скриншот 4](https://github.com/Wanderwille/scrinshot/blob/scrin2/шаг%20сборки.png)
+![Скриншот 4](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/шаг%20сборки.png)
 
 2. Создал Declarative Pipeline Job из репозитория с ролью:
 
-![Скриншот 5](https://github.com/Wanderwille/scrinshot/blob/scrin2/задание%202.png)
+![Скриншот 5](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/задание%202.png)
 
 Скрипт который выполнялся
 
@@ -75,28 +75,28 @@ pipeline {
 
 Сборка прошла с успехом
 
-![Скриншот 6](https://github.com/Wanderwille/scrinshot/blob/scrin2/задание2%20успех.png)
+![Скриншот 6](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/задание2%20успех.png)
 
 3. Перенес в jenkinsfile
 
 4. Создал Multibranch Pipeline:
 
-![Скриншот 7](https://github.com/Wanderwille/scrinshot/blob/scrin2/zadanie4.png)
+![Скриншот 7](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/zadanie4.png)
 
-![Скриншот 8](https://github.com/Wanderwille/scrinshot/blob/scrin2/zadanie4-succus.png)
+![Скриншот 8](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/zadanie4-succus.png)
 
 
 5. Создал Scripted Pipeline и наполнил его скриптом
 
-![Скриншот 9](https://github.com/Wanderwille/scrinshot/blob/scrin2/zadanie5.png)
+![Скриншот 9](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/zadanie5.png)
 
 6. Внес изменения в скрипт, запуск с параметрами
 
-![Скриншот 10](https://github.com/Wanderwille/scrinshot/blob/scrin2/не%20прод%206%20задание.png)
+![Скриншот 10](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/не%20прод%206%20задание.png)
 
 --check-diff
 
-![Скриншот 11](https://github.com/Wanderwille/scrinshot/blob/scrin2/запуск%20--check.png)
+![Скриншот 11](https://github.com/Wanderwille/scrinshot/blob/scrin2/Jenkins/запуск%20--check.png)
 
 8. Ссылка на role и скрипт:
 
