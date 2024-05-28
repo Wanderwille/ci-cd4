@@ -102,5 +102,9 @@ pipeline {
 
 Role: https://github.com/Wanderwille/vector-role
 
+Скрипты:
 
+1. https://github.com/Wanderwille/ci-cd4/blob/main/SRC/Jenkinsfile
+
+2. https://github.com/Wanderwille/ci-cd4/blob/main/SRC/ScriptedJenkinsfile
 
